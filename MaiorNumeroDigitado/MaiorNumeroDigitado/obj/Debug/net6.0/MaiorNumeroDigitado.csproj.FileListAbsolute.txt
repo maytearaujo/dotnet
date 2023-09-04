@@ -1,0 +1,14 @@
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\bin\Debug\net6.0\MaiorNumeroDigitado.exe
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\bin\Debug\net6.0\MaiorNumeroDigitado.deps.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\bin\Debug\net6.0\MaiorNumeroDigitado.runtimeconfig.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\bin\Debug\net6.0\MaiorNumeroDigitado.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\bin\Debug\net6.0\MaiorNumeroDigitado.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\MaiorNumeroDigitado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\MaiorNumeroDigitado.AssemblyInfoInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\MaiorNumeroDigitado.AssemblyInfo.cs
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\MaiorNumeroDigitado.csproj.CoreCompileInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\MaiorNumeroDigitado.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\refint\MaiorNumeroDigitado.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\MaiorNumeroDigitado.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\MaiorNumeroDigitado.genruntimeconfig.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MaiorNumeroDigitado\MaiorNumeroDigitado\obj\Debug\net6.0\ref\MaiorNumeroDigitado.dll

@@ -1,0 +1,14 @@
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\bin\Debug\net6.0\MenorNumeroDigitado.exe
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\bin\Debug\net6.0\MenorNumeroDigitado.deps.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\bin\Debug\net6.0\MenorNumeroDigitado.runtimeconfig.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\bin\Debug\net6.0\MenorNumeroDigitado.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\bin\Debug\net6.0\MenorNumeroDigitado.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\MenorNumeroDigitado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\MenorNumeroDigitado.AssemblyInfoInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\MenorNumeroDigitado.AssemblyInfo.cs
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\MenorNumeroDigitado.csproj.CoreCompileInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\MenorNumeroDigitado.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\refint\MenorNumeroDigitado.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\MenorNumeroDigitado.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\MenorNumeroDigitado.genruntimeconfig.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\MenorNumeroDigitado\MenorNumeroDigitado\obj\Debug\net6.0\ref\MenorNumeroDigitado.dll

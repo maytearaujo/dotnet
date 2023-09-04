@@ -1,0 +1,14 @@
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\bin\Debug\net6.0\ChamadoTI.exe
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\bin\Debug\net6.0\ChamadoTI.deps.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\bin\Debug\net6.0\ChamadoTI.runtimeconfig.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\bin\Debug\net6.0\ChamadoTI.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\bin\Debug\net6.0\ChamadoTI.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ChamadoTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ChamadoTI.AssemblyInfoInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ChamadoTI.AssemblyInfo.cs
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ChamadoTI.csproj.CoreCompileInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ChamadoTI.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\refint\ChamadoTI.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ChamadoTI.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ChamadoTI.genruntimeconfig.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\ChamadoTI\ChamadoTI\obj\Debug\net6.0\ref\ChamadoTI.dll

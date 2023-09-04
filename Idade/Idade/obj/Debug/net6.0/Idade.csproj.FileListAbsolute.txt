@@ -1,0 +1,14 @@
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\bin\Debug\net6.0\Idade.exe
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\bin\Debug\net6.0\Idade.deps.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\bin\Debug\net6.0\Idade.runtimeconfig.json
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\bin\Debug\net6.0\Idade.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\bin\Debug\net6.0\Idade.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\Idade.AssemblyInfoInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\Idade.AssemblyInfo.cs
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\Idade.csproj.CoreCompileInputs.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\Idade.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\refint\Idade.dll
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\Idade.pdb
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\Idade.genruntimeconfig.cache
+C:\Users\Maytê\Documents\Maytê\Estudos\dotNet\Idade\Idade\obj\Debug\net6.0\ref\Idade.dll
